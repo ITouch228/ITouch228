@@ -1,23 +1,66 @@
-# Привет, меня зовут Данил Яценко! 👋
+# Данил Яценко — Fullstack-разработчик
 
-Я фулстэк-разработчик с фокусом на современных JavaScript, React, FastAPI и экосистеме вокруг него.
+React / TypeScript / FastAPI / PostgreSQL / Docker
 
-## 🛠 Мой стек технологий
+Разрабатываю fullstack-приложения с акцентом на архитектуру, разделение ответственности и продуманную структуру проекта.
 
-*   **Фронтенд:** JavaScript (ES6+), React, Redux Toolkit, HTML5, CSS3
-*   **Бэкенд:** FastAPI (sqlalchemy, orm, PyDantic), Postgresql
-*   **Инструменты:** Git, GitHub, npm
+---
 
-## 🚀 Мои ключевые проекты
+## 🚀 Основной проект
 
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
-| **[Интернет-магазин](https://react-pizza-khaki-six.vercel.app)** | Функциональный интернет-магазин с технологиями фильтрации и корзины | React, JavaScript |
+### ITMessage — командный мессенджер
 
-## 📈 Моя активность на GitHub
+Fullstack-приложение с WebSocket и JWT-аутентификацией.
 
-*  Codewars: https://www.codewars.com/users/ITouch228
+Стек:
+React, FastAPI, PostgreSQL, WebSocket, Docker
 
-## 📫 Как со мной связаться
+🔗 Онлайн: https://itmessage.itouch.pw  
+🔗 Код: https://github.com/ITouch228/ITMessage
 
-*   Почта: danilyatsenko200612354678@gmail.com
+---
+
+## 🧩 Frontend-проект
+
+### Система бронирования помещений
+
+SPA с ролевой системой, кастомными хуками и тестированием.
+
+Стек:
+React, TypeScript, Vitest
+
+🔗 Онлайн: https://booking.itouch.pw  
+🔗 Код: https://github.com/ITouch228/booking-pet-project
+
+---
+
+## 📝 Fullstack CRUD
+
+### IToDo — менеджер задач
+
+Приложение с JWT-аутентификацией и асинхронной работой с БД.
+
+Стек:
+React, FastAPI, PostgreSQL
+
+🔗 Код: https://github.com/ITouch228/IToDo
+
+---
+
+## 🛠 Технологии
+
+Frontend:
+React, TypeScript, Vite, Router
+
+Backend:
+FastAPI, SQLAlchemy, PostgreSQL, JWT, Alembic
+
+Инфраструктура:
+Docker, Nginx
+
+---
+
+## 📫 Контакты
+
+Telegram: @ITouch06  
+Email: danilyatsenko200612354678@gmail.com
