@@ -10,7 +10,7 @@ React / TypeScript / FastAPI / PostgreSQL / Docker
 
 ### ITMessage — командный мессенджер
 
-Fullstack-приложение с WebSocket и JWT-аутентификацией.
+Fullstack-приложение с WebSocket, JWT-аутентификацией и слоистой архитектурой backend (routes / services / dao).
 
 Стек:
 React, FastAPI, PostgreSQL, WebSocket, Docker
@@ -30,7 +30,7 @@ SPA с ролевой системой, кастомными хуками и т�
 React, TypeScript, Vitest
 
 🔗 Онлайн: https://booking.itouch.pw  
-🔗 Код: https://github.com/ITouch228/booking-pet-project
+🔗 Код: https://github.com/ITouch228/Booking-Pet-Project
 
 ---
 
@@ -43,20 +43,16 @@ React, TypeScript, Vitest
 Стек:
 React, FastAPI, PostgreSQL
 
+🔗 Онлайн: https://itodo.itouch.pw  
 🔗 Код: https://github.com/ITouch228/IToDo
 
 ---
 
 ## 🛠 Технологии
 
-Frontend:
-React, TypeScript, Vite, Router
-
-Backend:
-FastAPI, SQLAlchemy, PostgreSQL, JWT, Alembic
-
-Инфраструктура:
-Docker, Nginx
+Фронтенд: React, TypeScript, Vite, Router
+Бэкенд: FastAPI, SQLAlchemy, PostgreSQL, JWT, Alembic
+Инфраструктура: Docker, Nginx
 
 ---
 
