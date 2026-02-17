@@ -6,6 +6,16 @@ React / TypeScript / FastAPI / PostgreSQL / Docker
 
 ---
 
+## Ключевые компетенции
+
+- Проектирование REST API
+- JWT-аутентификация
+- Работа с PostgreSQL и миграциями
+- Разделение backend на слои
+- Docker и деплой
+
+---
+
 ## 🚀 Основной проект
 
 ### ITMessage — командный мессенджер
@@ -13,7 +23,7 @@ React / TypeScript / FastAPI / PostgreSQL / Docker
 Fullstack-приложение с WebSocket, JWT-аутентификацией и слоистой архитектурой backend (routes / services / dao).
 
 Стек:
-React, FastAPI, PostgreSQL, WebSocket, Docker
+Vanilla JS, FastAPI, PostgreSQL, WebSocket, Docker
 
 🔗 Онлайн: https://itmessage.itouch.pw  
 🔗 Код: https://github.com/ITouch228/ITMessage
