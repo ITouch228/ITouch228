@@ -1,6 +1,6 @@
 # Данил Яценко — Fullstack-разработчик
 
-React / TypeScript / FastAPI / PostgreSQL / Docker
+React / TypeScript / FastAPI / Django / PostgreSQL / Docker
 
 Разрабатываю fullstack-приложения с акцентом на архитектуру, разделение ответственности и продуманную структуру проекта.
 
@@ -58,10 +58,25 @@ React, FastAPI, PostgreSQL
 
 ---
 
+## 📰 Django-проект
+
+### Личный блог на Django
+
+Веб-приложение с аутентификацией по email, CRUD для постов, пагинацией и автоматической генерацией slug.
+
+Стек:
+Python, Django, SQLite, Bootstrap
+
+🔗 Код: https://github.com/ITouch228/django-rbac-blog
+
+---
+
 ## 🛠 Технологии
 
 Фронтенд: React, TypeScript, Vite, Router
-Бэкенд: FastAPI, SQLAlchemy, PostgreSQL, JWT, Alembic
+
+Бэкенд: FastAPI, Django, SQLAlchemy, PostgreSQL, JWT, Alembic
+
 Инфраструктура: Docker, Nginx
 
 ---
