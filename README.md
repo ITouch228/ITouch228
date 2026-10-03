@@ -72,11 +72,11 @@ Fullstack-приложение: личная карта мест с чеками
 
 ### 🏛 Booking — система бронирования помещений
 
-SPA с ролевой системой, кастомными хуками и тестированием бизнес-логики.
+Frontend SPA: каталог комнат с фильтрами, интерактивный выбор таймслотов (pointer/touch), ролевые маршруты, авторизация по токену с авто-refresh. REST-слой написан вручную на fetch + AbortController (без react-query). 61 тест.
 
-`React` `TypeScript` `Vite` `Vitest` `React Testing Library`
+`React 19` `TypeScript` `Vite` `React Router` `Vitest` `React Testing Library`
 
-🔗 Код: https://github.com/ITouch228/Booking-Pet-Project
+🔗 Код: https://github.com/ITouch228/react-booking-frontend
 
 ---
 
