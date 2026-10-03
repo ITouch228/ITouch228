@@ -66,7 +66,7 @@ Fullstack-приложение: личная карта мест с чеками
 
 `Python` `Ollama` `SpeechRecognition` `gTTS / pyttsx3` `tkinter` `pyautogui`
 
-🔗 Код: https://github.com/ITouch228/ITouchHIOS
+🔗 Код: https://github.com/ITouch228/python-ollama-jarvis
 
 ---
 
