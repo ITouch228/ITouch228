@@ -24,7 +24,6 @@ FastAPI / Django / React / TypeScript / PostgreSQL / Docker / PyTorch / LLM
 
 `Python 3.12` `FastAPI` `WebSocket` `PostgreSQL` `SQLAlchemy` `Pillow` `Jinja2` `Docker`
 
-🔗 Онлайн: https://itmessage.itouch.pw
 🔗 Код: https://github.com/ITouch228/fastapi-realtime-messenger
 
 ---
@@ -77,7 +76,6 @@ SPA с ролевой системой, кастомными хуками и т�
 
 `React` `TypeScript` `Vite` `Vitest` `React Testing Library`
 
-🔗 Онлайн: https://booking.itouch.pw
 🔗 Код: https://github.com/ITouch228/Booking-Pet-Project
 
 ---
